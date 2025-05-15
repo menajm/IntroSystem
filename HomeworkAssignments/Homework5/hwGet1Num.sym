@@ -1,0 +1,9 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CONST                   3013
+//	GETNUM                  3003
+//	GETNUM_LOOP             3006
+//	G_SR                    3010
+//	G_SR2                   3011
+//	G_SR7                   3012
+//	MAIN                    3000

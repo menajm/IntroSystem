@@ -1,0 +1,32 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CHECK_UPPER             3011
+//	CHR                     30D0
+//	COUNTCHAR               3025
+//	DONE                    3042
+//	FINISH                  301F
+//	INCREMENT               303F
+//	LOOPING                 3009
+//	LOWERCASE               301A
+//	MAIN                    3000
+//	NEG26                   3058
+//	NEG32                   3059
+//	NEG65                   3057
+//	NEXT_CHAR               301C
+//	POS32                   305A
+//	SAVE_R0                 304B
+//	SAVE_R1                 304C
+//	SAVE_R1C                3050
+//	SAVE_R2                 304D
+//	SAVE_R2C                3051
+//	SAVE_R3                 304E
+//	SAVE_R3C                3052
+//	SAVE_R4C                3053
+//	SAVE_R5C                3054
+//	SAVE_R6C                3055
+//	SAVE_R7                 304F
+//	SAVE_R7C                3056
+//	SET_LOWERCASE           3033
+//	STR1                    30BF
+//	SWITCHCASE              3004
+//	TOP                     3037
